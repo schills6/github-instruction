@@ -1,0 +1,9 @@
+Name : Erin Heinrich
+Role : Software Student
+DOB : July 8, 1979
+Start : May 1, 2017
+
+Student learning the following software products: 
+-Git & GitHub 
+-Java
+-Spring Framework
